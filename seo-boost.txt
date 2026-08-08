@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-08T18:25:01Z
+last_seo_boost=2026-08-08T18:29:44Z
 slug=deborah-akuoko-minka-machine-intelligence
 platforms=huggingface+github+pages
 prefer=huggingface
