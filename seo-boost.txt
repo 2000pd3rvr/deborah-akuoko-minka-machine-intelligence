@@ -1,7 +1,7 @@
-last_seo_boost=2026-08-10T07:41:49Z
+last_seo_boost=2026-08-10T07:58:41Z
 slug=deborah-akuoko-minka-machine-intelligence
 platforms=huggingface+github+pages
-prefer=huggingface
+prefer=wordpress
 hf=https://huggingface.co/0001AMA/deborah-akuoko-minka-machine-intelligence
 public=true
 purpose=machine-intelligence-technical-profile
